@@ -1,5 +1,4 @@
-# C-Fundamentals
-<h1>C# MasterClass</h1>
+# C#-Fundamentals
 <h2>Objetivos</h2>
 <p>Aprimorar meus conhecimentos fundamentais na Linguagem C#</p>
 <h2>Goals</h2>
